@@ -205,7 +205,7 @@ Below are screenshots of some features of the easy Management System:
 
 ## ☎️ Contact
 - Email: 2358155969@qq.com
-- For questions, you can also send a message via `gitee` internal mail
+- For questions, you can also submit issue.
 
 ## 🙏 Acknowledgements
 
