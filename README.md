@@ -47,64 +47,64 @@ Below are screenshots of some features of the easy Management System:
 
 **Core Interfaces**
 
-![Login Page](img/登录界面.png)
+![Login Page](登录界面.png)
 *Login Page*
 
-![Registration Page](img/注册界面.png)
+![Registration Page](注册界面.png)
 *User Registration Page*
 
-![Home Page](img/首页1.png)
+![Home Page](首页1.png)
 *System Home Overview (Top)*
 
-![Home Page](img/首页2.png)
+![Home Page](首页2.png)
 *System Home Overview (Bottom)*
 
 **Project Management**
 
-![Project Management Entry](img/项目管理界面.png)
+![Project Management Entry](项目管理界面.png)
 *Project Management Entry Page*
 
-![Innovation Project Details](img/大创项目交互系统.png)
+![Innovation Project Details](大创项目交互系统.png)
 *Innovation Project Details and File Upload Page*
 
-![Online Document Filling](img/在线文档交互系统.png)
+![Online Document Filling](在线文档交互系统.png)
 *Online Document Filling Page*
 
-![Code Repository List](img/代码仓库管理系统1.png)
+![Code Repository List](代码仓库管理系统1.png)
 *Code Repository List and Creation Page*
 
-![Code Repository File List](img/代码仓库管理系统2.png)
+![Code Repository File List](代码仓库管理系统2.png)
 *Code Repository File List*
 
-![Code Viewing](img/代码仓库页.png)
+![Code Viewing](代码仓库页.png)
 *Code File Viewing and Editing Interface*
 
 **File & User Management**
 
-![File Download](img/文件下载界面.png)
+![File Download](文件下载界面.png)
 *File Download and Management Page*
 
-![User Management](img/人员管理界面.png)
+![User Management](人员管理界面.png)
 *User Management Page (Admin)*
 
 **System Functions**
 
-![System Settings](img/系统设置界面1.png)
+![System Settings](系统设置界面1.png)
 *System Settings Page (Announcements, Contact Info)*
 
-![System Settings](img/系统设置界面2.png)
+![System Settings](系统设置界面2.png)
 *System Settings Page (Access Time, Registration Switch, Background Image)*
 
-![Interaction Entry](img/互动功能界面.png)
+![Interaction Entry](互动功能界面.png)
 *Interaction Entry (Log Viewing)*
 
-![System Logs](img/系统日志界面.png)
+![System Logs](系统日志界面.png)
 *System Operation Log Viewing Page (Admin)*
 
-![Help Center](img/帮助中心界面.png)
+![Help Center](帮助中心界面.png)
 *Help Center Page*
 
-![Site Search](img/站内搜索功能.png)
+![Site Search](站内搜索功能.png)
 *Site Search Popup and Result Display*
 
 ## 🛠️ Tech Stack
